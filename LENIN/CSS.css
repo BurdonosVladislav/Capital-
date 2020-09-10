@@ -1,0 +1,53 @@
+body{
+    background-color: #FF6663;
+}
+.ODIN{
+    font-family: Tahoma;
+    color: #FEFFFE;
+    width: 65%;
+    text-align: left;
+    background-color: #BFD7EA;
+    padding: 20px 40px 50px 50px;
+    margin: 50px 0px 50px 0px;
+    border-radius: 25px;
+}
+
+.tex{
+font-size: 20px;
+line-height: 1.5;
+}
+
+.DVA{
+    font-family: Calibri;
+    color: #0B3954; 
+    width: 20%;
+    text-align: left;
+    background-color: #E0FF4F;
+    padding: 20px 40px 50px 50px;
+    margin: 50px 0px 50px 289px;
+    border-radius: 25px;
+}
+.pic01
+{
+    background-color:#0B3954 ;
+    width: 100%;
+    height: 600px;
+    background-image: url(../images/01.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.pic02
+{
+    background-color:#0B3954 ;
+    width: 100%;
+    height: 600px;
+    background-image: url(../images/02.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+a
+{
+    color: #000000;
+}
